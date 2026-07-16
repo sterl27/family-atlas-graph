@@ -1,0 +1,2003 @@
+{
+  "generatedAt": "2026-07-14T17:26:26.739Z",
+  "source": "Atkinson-1.FTW via master_*_clean.csv + obsidian_vault/People",
+  "stats": {
+    "total": 432,
+    "verified": 22,
+    "unverified": 410,
+    "relationships": 22
+  },
+  "people": [
+    {
+      "id": "unnamed-individual-slot-22-22",
+      "name": "(Unnamed individual - slot 22)",
+      "slot": 22,
+      "verified": false,
+      "unnamed": true,
+      "truncated": false
+    },
+    {
+      "id": "unnamed-individual-slot-301-301",
+      "name": "(Unnamed individual - slot 301)",
+      "slot": 301,
+      "verified": false,
+      "unnamed": true,
+      "truncated": false
+    },
+    {
+      "id": "unnamed-individual-slot-302-302",
+      "name": "(Unnamed individual - slot 302)",
+      "slot": 302,
+      "verified": false,
+      "unnamed": true,
+      "truncated": false
+    },
+    {
+      "id": "unnamed-individual-slot-303-303",
+      "name": "(Unnamed individual - slot 303)",
+      "slot": 303,
+      "verified": false,
+      "unnamed": true,
+      "truncated": false
+    },
+    {
+      "id": "unnamed-individual-slot-304-304",
+      "name": "(Unnamed individual - slot 304)",
+      "slot": 304,
+      "verified": false,
+      "unnamed": true,
+      "truncated": false
+    },
+    {
+      "id": "albert-lee-washburn-113",
+      "name": "Albert Lee Washburn",
+      "slot": 113,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "albert-wade-rider-160",
+      "name": "Albert Wade Rider (#160)",
+      "slot": 160,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "albert-wade-rider-343",
+      "name": "Albert Wade Rider (#343)",
+      "slot": 343,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "alcy-bramlett-211",
+      "name": "Alcy Bramlett",
+      "slot": 211,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "alexander-starr-45",
+      "name": "Alexander Starr",
+      "slot": 45,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "alfred-a-campbell-107",
+      "name": "Alfred A. Campbell",
+      "slot": 107,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "alta-annette-kelly-406",
+      "name": "Alta Annette Kelly",
+      "slot": 406,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "amanda-elise-atkins-5",
+      "name": "Amanda Elise Atkins",
+      "slot": 5,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "amanda-fowler-289",
+      "name": "Amanda Fowler",
+      "slot": 289,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "amanda-frances-fran-214",
+      "name": "Amanda Frances Fran",
+      "slot": 214,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "amelia-alberty-149",
+      "name": "Amelia Alberty",
+      "slot": 149,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "amelia-heath-potter-224",
+      "name": "Amelia Heath Potter",
+      "slot": 224,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "amna-monetta-rider-103",
+      "name": "Amna Monetta Rider",
+      "slot": 103,
+      "verified": true,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "amy-lauren-harper-312",
+      "name": "Amy Lauren Harper",
+      "slot": 312,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "andrew-b-trawek-204",
+      "name": "Andrew B. Trawek",
+      "slot": 204,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "ann-trawek-198",
+      "name": "Ann Trawek",
+      "slot": 198,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "anne-atkinson-243",
+      "name": "Anne  Atkinson",
+      "slot": 243,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "anne-unklastname-350",
+      "name": "Anne Unklastname",
+      "slot": 350,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "annie-mcbrayer-189",
+      "name": "Annie McBrayer",
+      "slot": 189,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "anthony-foreman-69",
+      "name": "Anthony Foreman",
+      "slot": 69,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "armene-josephine-st-236",
+      "name": "Armene Josephine St",
+      "slot": 236,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "arthur-eugene-bigby-172",
+      "name": "Arthur Eugene Bigby",
+      "slot": 172,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "arthur-lee-brook-91",
+      "name": "Arthur Lee Brook",
+      "slot": 91,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "ashley-anne-carreke-338",
+      "name": "Ashley Anne Carreke",
+      "slot": 338,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "attakullagulla-168",
+      "name": "Attakullagulla",
+      "slot": 168,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "austin-rider-41",
+      "name": "Austin Rider",
+      "slot": 41,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "benjamin-porter-318",
+      "name": "Benjamin Porter",
+      "slot": 318,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "betty-320",
+      "name": "Betty",
+      "slot": 320,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "betty-gene-toney-176",
+      "name": "Betty Gene Toney",
+      "slot": 176,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "beverly-williams-322",
+      "name": "Beverly Williams",
+      "slot": 322,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "bevrly-clark-barnet-33",
+      "name": "Bevrly Clark Barnet",
+      "slot": 33,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "billy-brasher-397",
+      "name": "Billy Brasher",
+      "slot": 397,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "birdie-lee-brook-305",
+      "name": "Birdie Lee Brook",
+      "slot": 305,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "bluford-west-rider-145",
+      "name": "Bluford West Rider",
+      "slot": 145,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "brandon-michael-car-337",
+      "name": "Brandon Michael Car",
+      "slot": 337,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "brenton-edward-carr-186",
+      "name": "Brenton Edward Carr",
+      "slot": 186,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "brook-lee-carreker-187",
+      "name": "Brook Lee Carreker",
+      "slot": 187,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "brook-taylor-132",
+      "name": "Brook Taylor",
+      "slot": 132,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "bryant-ward-247",
+      "name": "Bryant Ward",
+      "slot": 247,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "bushyhead-365",
+      "name": "Bushyhead",
+      "slot": 365,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "byron-boynton-158",
+      "name": "Byron Boynton",
+      "slot": 158,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "caleb-starr-43",
+      "name": "Caleb Starr",
+      "slot": 43,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "caleb-starr-rider-142",
+      "name": "Caleb Starr Rider",
+      "slot": 142,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "calvin-atkinson-31",
+      "name": "Calvin Atkinson",
+      "slot": 31,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "carl-douglas-atkins-27",
+      "name": "Carl Douglas Atkins",
+      "slot": 27,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "caroline-elizabeth-371",
+      "name": "Caroline Elizabeth",
+      "slot": 371,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "carolyn-257",
+      "name": "Carolyn",
+      "slot": 257,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "carrie-beverly-216",
+      "name": "Carrie Beverly",
+      "slot": 216,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "carrie-beverly-heat-196",
+      "name": "Carrie Beverly Heat",
+      "slot": 196,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "catherine-foreman-67",
+      "name": "Catherine Foreman",
+      "slot": 67,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "catherine-kingfishe-54",
+      "name": "Catherine Kingfishe",
+      "slot": 54,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "chad-hensley-181",
+      "name": "Chad Hensley",
+      "slot": 181,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "charles-austin-augu-39",
+      "name": "Charles Austin Augustus Rider",
+      "slot": 39,
+      "verified": true,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "charles-pritchard-159",
+      "name": "Charles Pritchard",
+      "slot": 159,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "charlie-nuckols-329",
+      "name": "Charlie Nuckols",
+      "slot": 329,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "charlotte-bushyhead-369",
+      "name": "Charlotte Bushyhead",
+      "slot": 369,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "charlotte-elizabeth-427",
+      "name": "Charlotte Elizabeth",
+      "slot": 427,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "charlotte-selby-226",
+      "name": "Charlotte Selby",
+      "slot": 226,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "cherokee-augustus-r-100",
+      "name": "Cherokee Augustus Rider",
+      "slot": 100,
+      "verified": true,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "chris-kirby-419",
+      "name": "Chris Kirby",
+      "slot": 419,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "christopher-brook-c-423",
+      "name": "Christopher Brook C",
+      "slot": 423,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "christopher-columbu-190",
+      "name": "Christopher Columbu",
+      "slot": 190,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "clarence-asa-bunch-262",
+      "name": "Clarence Asa Bunch",
+      "slot": 262,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "clarence-robert-bun-267",
+      "name": "Clarence Robert Bun",
+      "slot": 267,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "clinton-bunch-266",
+      "name": "Clinton Bunch",
+      "slot": 266,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "connie-ann-brook-129",
+      "name": "Connie Ann Brook",
+      "slot": 129,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "cord-hazzard-sr-227",
+      "name": "Cord Hazzard, Sr.",
+      "slot": 227,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "cord-hazzard-iii-221",
+      "name": "Cord Hazzard,III",
+      "slot": 221,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "cousin-of-amanda-fo-290",
+      "name": "Cousin of Amanda Fo",
+      "slot": 290,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "curtis-clinton-fren-116",
+      "name": "Curtis Clinton Fren",
+      "slot": 116,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "damon-noblet-334",
+      "name": "Damon Noblet",
+      "slot": 334,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "daniel-colston-bush-368",
+      "name": "Daniel Colston Bush",
+      "slot": 368,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "danny-schock-332",
+      "name": "Danny Schock",
+      "slot": 332,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "david-clay-coffeen-135",
+      "name": "David Clay Coffeen",
+      "slot": 135,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "david-hayes-333",
+      "name": "David Hayes",
+      "slot": 333,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "david-taylor-bigby-171",
+      "name": "David Taylor Bigby",
+      "slot": 171,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "david-thompson-152",
+      "name": "David Thompson",
+      "slot": 152,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "dean-brook-311",
+      "name": "Dean Brook",
+      "slot": 311,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "deborah-bryant-46",
+      "name": "Deborah Bryant",
+      "slot": 46,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "den-barnett-272",
+      "name": "Den Barnett",
+      "slot": 272,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "dennis-d-barnett-35",
+      "name": "Dennis D. Barnett",
+      "slot": 35,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "dennis-wolf-bushyhe-367",
+      "name": "Dennis Wolf Bushyhe",
+      "slot": 367,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "dorothy-bunch-264",
+      "name": "Dorothy Bunch",
+      "slot": 264,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "dorothy-jean-brashe-7",
+      "name": "Dorothy Jean Brashe",
+      "slot": 7,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "dovie-vera-french-114",
+      "name": "Dovie Vera French",
+      "slot": 114,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "e-g-gatton-401",
+      "name": "E.G. Gatton",
+      "slot": 401,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "ed-kirby-418",
+      "name": "Ed Kirby",
+      "slot": 418,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "ed-kirby-brook-13",
+      "name": "Ed Kirby Brook",
+      "slot": 13,
+      "verified": true,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "edith-allison-112",
+      "name": "Edith Allison",
+      "slot": 112,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "edna-west-244",
+      "name": "Edna West",
+      "slot": 244,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "edna-williamson-412",
+      "name": "Edna Williamson",
+      "slot": 412,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "edward-childs-251",
+      "name": "Edward Childs",
+      "slot": 251,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "edward-earl-brook-15",
+      "name": "Edward Earl Brook",
+      "slot": 15,
+      "verified": true,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "edward-porter-319",
+      "name": "Edward Porter",
+      "slot": 319,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "edward-wilkerson-bu-370",
+      "name": "Edward Wilkerson Bu",
+      "slot": 370,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "effie-rider-104",
+      "name": "Effie Rider",
+      "slot": 104,
+      "verified": true,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "eliza-brown-34",
+      "name": "Eliza Brown",
+      "slot": 34,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "eliza-missouri-bush-372",
+      "name": "Eliza Missouri Bush",
+      "slot": 372,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "elizabeth-308",
+      "name": "Elizabeth (#308)",
+      "slot": 308,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "elizabeth-71",
+      "name": "Elizabeth (#71)",
+      "slot": 71,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "elizabeth-beard-207",
+      "name": "Elizabeth Beard",
+      "slot": 207,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "elizabeth-duck-60",
+      "name": "Elizabeth Duck",
+      "slot": 60,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "elizabeth-miller-87",
+      "name": "Elizabeth Miller",
+      "slot": 87,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "elizabeth-rider-141",
+      "name": "Elizabeth Rider",
+      "slot": 141,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "elizabeth-ward-248",
+      "name": "Elizabeth Ward",
+      "slot": 248,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "ellis-harlan-53",
+      "name": "Ellis Harlan",
+      "slot": 53,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "ellis-rider-147",
+      "name": "Ellis Rider",
+      "slot": 147,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "elsie-brasher-391",
+      "name": "Elsie Brasher",
+      "slot": 391,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "elsie-price-154",
+      "name": "Elsie Price",
+      "slot": 154,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "emily-ann-atkinson-241",
+      "name": "Emily Ann Atkinson",
+      "slot": 241,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "emma-jane-rider-eva-327",
+      "name": "Emma Jane Rider Eva",
+      "slot": 327,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "emma-jane-starr-328",
+      "name": "Emma Jane Starr",
+      "slot": 328,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "estella-fuston-384",
+      "name": "Estella Fuston",
+      "slot": 384,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "ethel-atkinson-28",
+      "name": "Ethel Atkinson",
+      "slot": 28,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "eugene-nelms-willia-192",
+      "name": "Eugene Nelms Willia",
+      "slot": 192,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "eugene-thomas-willi-8",
+      "name": "Eugene Thomas Willi",
+      "slot": 8,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "eunice-estelle-broo-12",
+      "name": "Eunice Estelle Brook",
+      "slot": 12,
+      "verified": true,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "ezekial-buffington-376",
+      "name": "Ezekial Buffington",
+      "slot": 376,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "ezekial-harlan-jr-55",
+      "name": "Ezekial Harlan, Jr.",
+      "slot": 55,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "ezekial-harlan-sr-57",
+      "name": "Ezekial Harlan,Sr",
+      "slot": 57,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "ezekial-rider-309",
+      "name": "Ezekial Rider",
+      "slot": 309,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "ezekiel-rider-144",
+      "name": "Ezekiel Rider",
+      "slot": 144,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "ezekiel-starr-323",
+      "name": "Ezekiel Starr",
+      "slot": 323,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "ezra-eugene-brook-88",
+      "name": "Ezra Eugene Brook",
+      "slot": 88,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "f-l-trawek-206",
+      "name": "F.L. Trawek",
+      "slot": 206,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "farrer-olline-124",
+      "name": "Farrer Olline",
+      "slot": 124,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "frances-marchman-193",
+      "name": "Frances Marchman",
+      "slot": 193,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "francis-275",
+      "name": "Francis",
+      "slot": 275,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "frank-a-venton-256",
+      "name": "Frank A. Venton",
+      "slot": 256,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "frank-boyd-194",
+      "name": "Frank Boyd",
+      "slot": 194,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "gadie-louise-allen-405",
+      "name": "Gadie Louise Allen",
+      "slot": 405,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "gahoga-foster-75",
+      "name": "Gahoga Foster",
+      "slot": 75,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "galela-french-117",
+      "name": "Galela French",
+      "slot": 117,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "galen-brasher-385",
+      "name": "Galen Brasher",
+      "slot": 385,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "gay-elder-414",
+      "name": "Gay Elder",
+      "slot": 414,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "gean-brook-atkinson-1",
+      "name": "Gean Brook Atkinson",
+      "slot": 1,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "gean-sterling-atkin-11",
+      "name": "Gean Sterling Atkin (#11)",
+      "slot": 11,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "gean-sterling-atkin-4",
+      "name": "Gean Sterling Atkin (#4)",
+      "slot": 4,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "gene-heath-williams-6",
+      "name": "Gene Heath Williams",
+      "slot": 6,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "genie-brasher-392",
+      "name": "Genie Brasher",
+      "slot": 392,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "george-barnett-271",
+      "name": "George Barnett",
+      "slot": 271,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "george-douglas-atki-237",
+      "name": "George Douglas Atki (#237)",
+      "slot": 237,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "george-douglas-atki-242",
+      "name": "George Douglas Atki (#242)",
+      "slot": 242,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "george-franks-288",
+      "name": "George Franks",
+      "slot": 288,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "george-harlan-59",
+      "name": "George Harlan",
+      "slot": 59,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "george-stanford-atk-25",
+      "name": "George Stanford Atk",
+      "slot": 25,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "georgia-mae-brasher-393",
+      "name": "Georgia Mae Brasher",
+      "slot": 393,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "gilbert-kennedy-80",
+      "name": "Gilbert Kennedy",
+      "slot": 80,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "gloria-virginia-bra-286",
+      "name": "Gloria Virginia Bra",
+      "slot": 286,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "gordon-346",
+      "name": "Gordon",
+      "slot": 346,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "grace-denning-263",
+      "name": "Grace Denning",
+      "slot": 263,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "grover-barnett-235",
+      "name": "Grover Barnett",
+      "slot": 235,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "hannah-cooke-348",
+      "name": "Hannah Cooke",
+      "slot": 348,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "hannah-osborn-56",
+      "name": "Hannah Osborn",
+      "slot": 56,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "harold-anderson-339",
+      "name": "Harold Anderson",
+      "slot": 339,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "harold-young-183",
+      "name": "Harold Young",
+      "slot": 183,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "hazel-atkinson-30",
+      "name": "Hazel Atkinson",
+      "slot": 30,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "hazel-francis-hill-407",
+      "name": "Hazel Francis Hill",
+      "slot": 407,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "helen-kennedy-79",
+      "name": "Helen Kennedy",
+      "slot": 79,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "henry-coffeen-133",
+      "name": "Henry Coffeen",
+      "slot": 133,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "henry-coffeen-iii-134",
+      "name": "Henry Coffeen III (#134)",
+      "slot": 134,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "henry-coffeen-iii-424",
+      "name": "Henry Coffeen III (#424)",
+      "slot": 424,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "henry-oborn-or-osb-321",
+      "name": "Henry Oborn (Or Osb",
+      "slot": 321,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "hershell-atkinson-245",
+      "name": "Hershell Atkinson",
+      "slot": 245,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "hillary-taylor-elli-428",
+      "name": "Hillary Taylor Elli",
+      "slot": 428,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "hugh-mccall-284",
+      "name": "Hugh McCall",
+      "slot": 284,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "hunter-riley-hayes-335",
+      "name": "Hunter Riley Hayes",
+      "slot": 335,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "ina-lee-turner-404",
+      "name": "Ina Lee Turner",
+      "slot": 404,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "infant-brasher-399",
+      "name": "Infant Brasher",
+      "slot": 399,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "infant-rider-101",
+      "name": "Infant Rider",
+      "slot": 101,
+      "verified": true,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "infant2-brasher-400",
+      "name": "Infant2 Brasher",
+      "slot": 400,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "issabel-81",
+      "name": "Issabel",
+      "slot": 81,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "iva-josephine-attal-98",
+      "name": "Iva Josephine Attalie Rider",
+      "slot": 98,
+      "verified": true,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "iva-josephine-frenc-120",
+      "name": "Iva Josephine Frenc",
+      "slot": 120,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "jack-albert-love-411",
+      "name": "Jack Albert Love",
+      "slot": 411,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "jack-winston-love-413",
+      "name": "Jack Winston Love",
+      "slot": 413,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "jackson-300",
+      "name": "Jackson",
+      "slot": 300,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "james-a-hendrick-86",
+      "name": "James A. Hendrick",
+      "slot": 86,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "james-adair-77",
+      "name": "James Adair",
+      "slot": 77,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "james-bigby-66",
+      "name": "James Bigby",
+      "slot": 66,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "james-c-starr-325",
+      "name": "James C. Starr",
+      "slot": 325,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "james-harlan-61",
+      "name": "James Harlan",
+      "slot": 61,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "james-harper-313",
+      "name": "James Harper",
+      "slot": 313,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "james-lafayette-big-426",
+      "name": "James Lafayette Big",
+      "slot": 426,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "james-starr-163",
+      "name": "James Starr",
+      "slot": 163,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "james-william-mcgee-175",
+      "name": "James William McGee (#175)",
+      "slot": 175,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "james-william-mcgee-180",
+      "name": "James William McGee (#180)",
+      "slot": 180,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "james-woods-138",
+      "name": "James Woods",
+      "slot": 138,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "jamie-lou-mcgee-179",
+      "name": "Jamie Lou McGee",
+      "slot": 179,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "jane-bushyhead-366",
+      "name": "Jane Bushyhead",
+      "slot": 366,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "jane-leigh-20",
+      "name": "Jane Leigh",
+      "slot": 20,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "jean-herrin-268",
+      "name": "Jean Herrin",
+      "slot": 268,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "jerry-ann-mcknight-416",
+      "name": "Jerry Ann McKnight",
+      "slot": 416,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "jess-a-barbre-111",
+      "name": "Jess A. Barbre",
+      "slot": 111,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "jesse-bushyhead-jr-373",
+      "name": "Jesse Bushyhead, Jr",
+      "slot": 373,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "jim-carter-274",
+      "name": "Jim Carter",
+      "slot": 274,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "joe-alberty-106",
+      "name": "Joe Alberty",
+      "slot": 106,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "joe-martyak-282",
+      "name": "Joe Martyak",
+      "slot": 282,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "joe-wicks-110",
+      "name": "Joe Wicks",
+      "slot": 110,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "john-adair-ii-74",
+      "name": "John Adair II",
+      "slot": 74,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "john-anthony-forema-68",
+      "name": "John Anthony Forema",
+      "slot": 68,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "john-brook-19",
+      "name": "John Brook",
+      "slot": 19,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "john-c-east-276",
+      "name": "John C. East",
+      "slot": 276,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "john-denzil-carreke-184",
+      "name": "John Denzil Carreke (#184)",
+      "slot": 184,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "john-denzil-carreke-185",
+      "name": "John Denzil Carreke (#185)",
+      "slot": 185,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "john-foreman-ii-354",
+      "name": "John Foreman II",
+      "slot": 354,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "john-henry-brook-90",
+      "name": "John Henry Brook",
+      "slot": 90,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "john-lane-brasher-398",
+      "name": "John Lane Brasher",
+      "slot": 398,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "john-layne-brasher-410",
+      "name": "John Layne Brasher",
+      "slot": 410,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "john-m-bramlett-212",
+      "name": "John M. Bramlett",
+      "slot": 212,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "john-m-smith-153",
+      "name": "John M. Smith",
+      "slot": 153,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "john-rider-143",
+      "name": "John Rider",
+      "slot": 143,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "john-starr-52",
+      "name": "John Starr",
+      "slot": 52,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "john-starr-jr-49",
+      "name": "John Starr,Jr.",
+      "slot": 49,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "john-starr-sr-51",
+      "name": "John Starr,Sr.",
+      "slot": 51,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "jonathan-buffington-379",
+      "name": "Jonathan Buffington",
+      "slot": 379,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "joseph-hazzard-jr-225",
+      "name": "Joseph Hazzard, Jr.",
+      "slot": 225,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "joseph-hazzard-sr-229",
+      "name": "Joseph Hazzard, Sr.",
+      "slot": 229,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "joseph-martin-249",
+      "name": "Joseph Martin",
+      "slot": 249,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "josephine-pace-38",
+      "name": "Josephine Pace",
+      "slot": 38,
+      "verified": true,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "josiah-wilson-heath-219",
+      "name": "Josiah Wilson Heath",
+      "slot": 219,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "josiah-wilson-samue-217",
+      "name": "Josiah Wilson Samue",
+      "slot": 217,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "judy-239",
+      "name": "Judy",
+      "slot": 239,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "julia-irene-brook-89",
+      "name": "Julia Irene Brook",
+      "slot": 89,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "kate-299",
+      "name": "Kate",
+      "slot": 299,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "kenneth-arlen-wheel-261",
+      "name": "Kenneth Arlen Wheel",
+      "slot": 261,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "kinfisher-62",
+      "name": "Kinfisher",
+      "slot": 62,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "king-fulson-157",
+      "name": "King Fulson",
+      "slot": 157,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "kirby-brook-atkinso-3",
+      "name": "Kirby Brook Atkinso",
+      "slot": 3,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "kirby-rider-280",
+      "name": "Kirby Rider",
+      "slot": 280,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "laura-love-415",
+      "name": "Laura Love",
+      "slot": 415,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "laura-n-hendrick-18",
+      "name": "Laura N. Hendrick",
+      "slot": 18,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "laura-narcissa-ride-148",
+      "name": "Laura Narcissa Ride",
+      "slot": 148,
+      "verified": false,
+      "unnamed": false,
+      "truncated": true
+    },
+    {
+      "id": "laura-wheeler-269",
+      "name": "Laura Wheeler",
+      "slot": 269,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "leigh-ann-mcgee-178",
+      "name": "Leigh Ann McGee",
+      "slot": 178,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "leo-edward-mcgee-174",
+      "name": "Leo Edward McGee",
+      "slot": 174,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "leon-rider-279",
+      "name": "Leon Rider",
+      "slot": 279,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "leslie-wheeler-270",
+      "name": "Leslie Wheeler",
+      "slot": 270,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "letchie-copas-123",
+      "name": "Letchie Copas",
+      "slot": 123,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "lietha-d-bunch-265",
+      "name": "Lietha D. Bunch",
+      "slot": 265,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "lightfoot-76",
+      "name": "Lightfoot",
+      "slot": 76,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "lillian-brasher-390",
+      "name": "Lillian Brasher",
+      "slot": 390,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "little-fellow-246",
+      "name": "Little Fellow",
+      "slot": 246,
+      "verified": false,
+      "unnamed": false,
+      "truncated": false
+    },
+    {
+      "id": "little-gus-165",
+      "name": "Little Gus",
+      "slot": 165,
+      "verified": false,
+      "unnamed": false,
+
+(Showing lines 1-2000 of 3649. Use offset=2001 to continue.)
+</content>
